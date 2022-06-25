@@ -22,3 +22,6 @@ for la información de las 4 personas mediante el método de muestraDatos, se pu
 apuntadores. 
 Por último, libere la memoria reservada mediante la palabra reservada delete. Es nesario manejar 
 archivos .cpp y .h para cada una de las clases definidas. 
+
+TC1030.303 Programación Orientada a Objetos
+Maestro: Juan Francisco Pérez Rangel
